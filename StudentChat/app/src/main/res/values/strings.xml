@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StudentChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login_email_hint">Enter Email</string>
+
+    <string name="login_password_hint">Enter Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Create a new account</string>
+    <string name="or">OR</string>
+    <string name="phone_number">Phone number</string>
+    <string name="not_have_an_account">Not Have An Account?</string>
+    <string name="register_button">Create new account</string>
+    <string name="already_have_account">Already have an account</string>
+    <string name="find_friend">Find Friend</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="hi_lets_be_a_friends">Hi.Lets be a friends</string>
+    <string name="update">Update</string>
+</resources>

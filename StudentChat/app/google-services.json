@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469533382957",
+    "project_id": "studentapp-f07f5",
+    "storage_bucket": "studentapp-f07f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469533382957:android:fbb5983ecf296f277c9ba4",
+        "android_client_info": {
+          "package_name": "com.example.studentchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469533382957-f8vmcasukve0u7b5ujna6o9eognqsglb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDutc4jc7mpPZOovcobHhTnt2MAmq1RuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469533382957-f8vmcasukve0u7b5ujna6o9eognqsglb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
